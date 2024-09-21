@@ -14,4 +14,5 @@ Open the project in your favorite code editor (like VS Code or Android Studio).
 Run the app on different devices or emulators to see how it changes.
 
 ## ui
-![Uploading app.png…]()
+![app](https://github.com/user-attachments/assets/a10d2ce2-33cd-4629-a112-7dcbc757fafe)
+
